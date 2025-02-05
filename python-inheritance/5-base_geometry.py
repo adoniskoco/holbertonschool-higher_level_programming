@@ -2,8 +2,7 @@
 
 """Module for a class"""
 
+
 class BaseGeometry:
-
-	"""Class of basegeometry"""
-
-	pass
+    """Class of basegeometry"""
+    pass
